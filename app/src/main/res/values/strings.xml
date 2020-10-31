@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NayanTechChallenge</string>
+    <string name="no_items_available">No items available</string>
+    <string name="description">Description:</string>
+    <string name="language">Language:</string>
+    <string name="watchers_count">Watchers Count:</string>
+    <string name="html_url">URL:</string>
+</resources>
